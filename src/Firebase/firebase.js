@@ -6,13 +6,13 @@ import { getAuth } from "firebase/auth";
 // Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCtYb0I4aPnZKPbB4bbQ0VB7rpHZqha06s",
-  authDomain: "wellbell-4a40d.firebaseapp.com",
-  projectId: "wellbell-4a40d",
-  storageBucket: "wellbell-4a40d.appspot.com",
-  messagingSenderId: "33154837166",
-  appId: "1:33154837166:web:cffc47a7ec9154036edb3f",
-  measurementId: "G-5YXH5XPXZ7",
+  apiKey: "AIzaSyDNr0TinKmk5a2pvea90fAAsGzjgBUPiE4",
+  authDomain: "capstone-wellbell.firebaseapp.com",
+  projectId: "capstone-wellbell",
+  storageBucket: "capstone-wellbell.appspot.com",
+  messagingSenderId: "1013195598076",
+  appId: "1:1013195598076:web:89079b382cf037959b4f79",
+  measurementId: "G-X50QF8GGM5"
 };
 
 // Initialize Firebase
